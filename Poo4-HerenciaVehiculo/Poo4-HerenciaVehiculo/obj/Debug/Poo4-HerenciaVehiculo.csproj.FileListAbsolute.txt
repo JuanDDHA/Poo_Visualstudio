@@ -1,0 +1,7 @@
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\bin\Debug\Poo4-HerenciaVehiculo.exe.config
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\bin\Debug\Poo4-HerenciaVehiculo.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\bin\Debug\Poo4-HerenciaVehiculo.pdb
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\obj\Debug\Poo4-HerenciaVehiculo.csproj.AssemblyReference.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\obj\Debug\Poo4-HerenciaVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\obj\Debug\Poo4-HerenciaVehiculo.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo4-HerenciaVehiculo\Poo4-HerenciaVehiculo\obj\Debug\Poo4-HerenciaVehiculo.pdb

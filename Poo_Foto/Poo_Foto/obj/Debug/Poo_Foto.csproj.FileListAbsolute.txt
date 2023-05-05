@@ -1,0 +1,7 @@
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\bin\Debug\Poo_Foto.exe.config
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\bin\Debug\Poo_Foto.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\bin\Debug\Poo_Foto.pdb
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\obj\Debug\Poo_Foto.csproj.AssemblyReference.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\obj\Debug\Poo_Foto.csproj.CoreCompileInputs.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\obj\Debug\Poo_Foto.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Foto\Poo_Foto\obj\Debug\Poo_Foto.pdb

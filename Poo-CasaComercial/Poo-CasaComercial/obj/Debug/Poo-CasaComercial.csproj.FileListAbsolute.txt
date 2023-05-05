@@ -1,0 +1,7 @@
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\bin\Debug\Poo-CasaComercial.exe.config
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\bin\Debug\Poo-CasaComercial.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\bin\Debug\Poo-CasaComercial.pdb
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\obj\Debug\Poo-CasaComercial.csproj.AssemblyReference.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\obj\Debug\Poo-CasaComercial.csproj.CoreCompileInputs.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\obj\Debug\Poo-CasaComercial.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo-CasaComercial\Poo-CasaComercial\obj\Debug\Poo-CasaComercial.pdb

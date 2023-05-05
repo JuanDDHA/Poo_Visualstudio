@@ -1,0 +1,7 @@
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\obj\Debug\Poo_Computadora.csproj.AssemblyReference.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\obj\Debug\Poo_Computadora.csproj.CoreCompileInputs.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\bin\Debug\Poo_Computadora.exe.config
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\bin\Debug\Poo_Computadora.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\bin\Debug\Poo_Computadora.pdb
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\obj\Debug\Poo_Computadora.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Computadora\Poo_Computadora\obj\Debug\Poo_Computadora.pdb

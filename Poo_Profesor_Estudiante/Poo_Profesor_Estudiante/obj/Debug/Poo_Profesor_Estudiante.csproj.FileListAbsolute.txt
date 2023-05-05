@@ -1,0 +1,7 @@
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\bin\Debug\Poo_Profesor_Estudiante.exe.config
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\bin\Debug\Poo_Profesor_Estudiante.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\bin\Debug\Poo_Profesor_Estudiante.pdb
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\obj\Debug\Poo_Profesor_Estudiante.csproj.AssemblyReference.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\obj\Debug\Poo_Profesor_Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\obj\Debug\Poo_Profesor_Estudiante.exe
+C:\Users\henrr\Documents\ING-Sistema\C#\Poo_Profesor_Estudiante\Poo_Profesor_Estudiante\obj\Debug\Poo_Profesor_Estudiante.pdb
